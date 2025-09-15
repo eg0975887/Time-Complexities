@@ -1,0 +1,15 @@
+d:\OTC CLASSES\FA-CSC-210-H102\Time-Complexities\bin\Debug\net9.0\TimeComplexities.exe
+D:\OTC CLASSES\FA-CSC-210-H102\Time-Complexities\bin\Debug\net9.0\TimeComplexities.deps.json
+D:\OTC CLASSES\FA-CSC-210-H102\Time-Complexities\bin\Debug\net9.0\TimeComplexities.runtimeconfig.json
+d:\OTC CLASSES\FA-CSC-210-H102\Time-Complexities\bin\Debug\net9.0\TimeComplexities.dll
+d:\OTC CLASSES\FA-CSC-210-H102\Time-Complexities\bin\Debug\net9.0\TimeComplexities.pdb
+d:\OTC CLASSES\FA-CSC-210-H102\Time-Complexities\obj\Debug\net9.0\TimeComplexities.GeneratedMSBuildEditorConfig.editorconfig
+d:\OTC CLASSES\FA-CSC-210-H102\Time-Complexities\obj\Debug\net9.0\TimeComplexities.AssemblyInfoInputs.cache
+d:\OTC CLASSES\FA-CSC-210-H102\Time-Complexities\obj\Debug\net9.0\TimeComplexities.AssemblyInfo.cs
+d:\OTC CLASSES\FA-CSC-210-H102\Time-Complexities\obj\Debug\net9.0\TimeComplexities.csproj.CoreCompileInputs.cache
+d:\OTC CLASSES\FA-CSC-210-H102\Time-Complexities\obj\Debug\net9.0\TimeComplexities.sourcelink.json
+d:\OTC CLASSES\FA-CSC-210-H102\Time-Complexities\obj\Debug\net9.0\TimeComplexities.dll
+d:\OTC CLASSES\FA-CSC-210-H102\Time-Complexities\obj\Debug\net9.0\refint\TimeComplexities.dll
+d:\OTC CLASSES\FA-CSC-210-H102\Time-Complexities\obj\Debug\net9.0\TimeComplexities.pdb
+D:\OTC CLASSES\FA-CSC-210-H102\Time-Complexities\obj\Debug\net9.0\TimeComplexities.genruntimeconfig.cache
+D:\OTC CLASSES\FA-CSC-210-H102\Time-Complexities\obj\Debug\net9.0\ref\TimeComplexities.dll
